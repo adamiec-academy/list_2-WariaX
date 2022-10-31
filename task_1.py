@@ -14,4 +14,4 @@ def remove_parentheses(text):
 
     return result.replace ("  "," ")
     
-print(remove_parentheses(text))
+print(remove_parentheses("Wojtek (zaro), mnie tukej rozkurwi to wszystko"))
