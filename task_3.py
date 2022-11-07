@@ -18,5 +18,5 @@ def is_diabolic(n):
 
 for i in range (100001):
     n = i
-    if is_prime(n) == True and is_diabolic(n) == True:
-        print(f"{i} : {is_prime(n)}")
+    if  is_diabolic(n) == True and is_prime(n) == True:
+        print(f"{i}")
