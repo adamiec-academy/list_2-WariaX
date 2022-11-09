@@ -24,4 +24,3 @@ def multiplication_table(x1, x2, y1, y2):
     
 
 
-multiplication_table(3, 9, 2, 12)
